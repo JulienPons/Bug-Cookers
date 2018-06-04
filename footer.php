@@ -1,14 +1,13 @@
-<img src="../Images/petit_logo_foot.png" alt="petit_logo" id="logo_restaurant_foot">
-
-	<ul class="banniere_bottom">
-		<li><a href="#" class="text_foot">Siège social - 17 Rue Delandine 69002 Lyon</a></li>
-		<li><a href="#" class="text_foot"> Téléphone : 06 58 46 83 32</a></li>
-		<li><a href="#" class="text_foot"> Email : Bug.Cookers@insect.com</a></li>
-		<li><a href="#" class="text_foot">Contact - Mentions légales</a></li>
+<hr class="ligne_separation">
+<div class="dispo_footer">
+	<a href="index.php" id="lien_logo_footer"><p id="logo_footer">Bug Cookers</p></a>
+	<ul class="banniere_bottom1">
+		<li><a href="https://www.google.fr/maps/place/17+Rue+Delandine,+69002+Lyon/@45.7461644,4.8252566,17z/data=!3m1!4b1!4m5!3m4!1s0x47f4ea4ab93a6b4d:0xe7034289905cd02a!8m2!3d45.7461607!4d4.8274399" target="_blank" class="text_foot">Siège social - 17 Rue Delandine 69002 Lyon</a></li>
+		<li class="text_foot"> Téléphone : 06 58 46 83 32</li>
+		<li class="text_foot"> Email : Bug.Cookers@insect.com</a></li>
 	</ul>
-
-	<ul class="banniere_bottom_logo">
-		<li><a href="#"><img src="../Images/logo_facebook.png" alt="logo_facebook" class="taille_logo">Facebook</a></li>
-		<li><a href="#"><img src="../Images/logo_twitter.png" alt="logo_twitter" class="taille_logo">Twitter</a></li>
-		<li><a href="#"><img src="../Images/logo_pinterest.png" alt="logo_pinterest" class="taille_logo">Pinterest</a></li>
+	<ul class="banniere_bottom1">
+		<li><a href="nosRestaurants.php#contact-section" class="text_foot">Contact</a></li>
+		<li><a href="mentionsLegales.php" class="text_foot"> Mentions légales</a></li>
 	</ul>
+</div>
